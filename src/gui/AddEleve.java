@@ -61,7 +61,7 @@ public class AddEleve {
 		lblNewLabel.setBounds(56, 27, 151, 13);
 		frame.getContentPane().add(lblNewLabel);
 		
-		JLabel lblNewLabel_1 = new JLabel("Prénom : ");
+		JLabel lblNewLabel_1 = new JLabel("Pre�nom : ");
 		lblNewLabel_1.setBounds(56, 60, 71, 13);
 		frame.getContentPane().add(lblNewLabel_1);
 		
@@ -73,7 +73,7 @@ public class AddEleve {
 		lblNewLabel_3.setBounds(56, 107, 45, 13);
 		frame.getContentPane().add(lblNewLabel_3);
 		
-		JLabel lblNewLabel_4 = new JLabel("Filière : ");
+		JLabel lblNewLabel_4 = new JLabel("Filiere : ");
 		lblNewLabel_4.setBounds(56, 130, 71, 13);
 		frame.getContentPane().add(lblNewLabel_4);
 		
