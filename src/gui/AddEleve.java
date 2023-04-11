@@ -92,7 +92,7 @@ public class AddEleve {
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				EleveDAO eleve = new EleveDAO();
-				String prenom = Prenom.getText(); //on récupère ce qui est dans le Jpanel et on l'associe à un string
+				String prenom = Prenom.getText(); //on r�cup�re ce qui est dans le Jpanel et on l'associe à un string
 				String nom = Nom.getText();
 				String mail = Mail.getText();
 				String filiere = Filiere.getText();
